@@ -50,7 +50,11 @@ export async function GET(request: Request) {
     return new NextResponse(svg, {
       headers: {
         "Content-Type": "image/svg+xml",
-        "Cache-Control": cacheControl,
+        // max-age=0 tells GitHub NOT to cache it for long
+        // s-maxage=0 tells the Vercel Edge cache the same
+        // must-revalidate forces the proxy to check for updates
+        "Cache-Control":
+          "no-cache, no-store, must-revalidate, max-age=0, s-maxage=0",
         "Content-Security-Policy":
           "default-src 'none'; style-src 'unsafe-inline';",
       },
