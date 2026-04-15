@@ -215,6 +215,12 @@ Read the full guide: **[CONTRIBUTING.md](CONTRIBUTING.md)**
 
 MIT © [Sourav Jha](https://github.com/JhaSourav07)
 
+--- 
+
+## 🎨 Themes
+
+Check out all available themes here: [Theme Gallery](THEMES.md)
+
 <div align="center">
 
 ---
