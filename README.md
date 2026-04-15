@@ -215,7 +215,7 @@ Read the full guide: **[CONTRIBUTING.md](CONTRIBUTING.md)**
 
 MIT © [Sourav Jha](https://github.com/JhaSourav07)
 
---- 
+---
 
 ## 🎨 Themes
 

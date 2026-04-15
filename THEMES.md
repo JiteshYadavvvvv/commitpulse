@@ -23,6 +23,7 @@ Usage:
 ---
 
 ## 🌑 Dark
+
 ![Dark](assets/themes/dark.png)
 
 Usage:
@@ -31,6 +32,7 @@ Usage:
 ---
 
 ## 🌕 Light
+
 ![Light](assets/themes/light.png)
 
 Usage:
@@ -39,6 +41,7 @@ Usage:
 ---
 
 ## 🐙 GitHub
+
 ![GitHub](assets/themes/github.png)
 
 Usage:
