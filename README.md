@@ -219,11 +219,10 @@ MIT © [Sourav Jha](https://github.com/JhaSourav07)
 
 ## 🎨 Themes
 
-Check out all available themes here: [Theme Gallery](THEMES.md)
-
-<div align="center">
+Browse theme previews here: [Theme Gallery](THEMES.md)
 
 ---
+<div align="center">
 
 *Built with obsession, shipped with precision.*
 

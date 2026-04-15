@@ -28,26 +28,24 @@ Usage:
 
 ---
 
-## 🌈 Aurora
-
-![Aurora](assets/themes/aurora.png)
+## 🌑 Dark
+![Dark](assets/themes/dark.png)
 
 Usage:
-
-```
-/api/streak?user=yourusername&theme=aurora
-```
+`/api/streak?user=yourusername&theme=dark`
 
 ---
 
-## 🖤 Obsidian
-
-![Obsidian](assets/themes/obsidian.png)
+## 🌕 Light
+![Light](assets/themes/light.png)
 
 Usage:
-
-```
-/api/streak?user=yourusername&theme=obsidian
-```
+`/api/streak?user=yourusername&theme=light`
 
 ---
+
+## 🐙 GitHub
+![GitHub](assets/themes/github.png)
+
+Usage:
+`/api/streak?user=yourusername&theme=github`
